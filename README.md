@@ -94,25 +94,6 @@ npm run build
 
 ---
 
-## 🛠️ Folder Structure
-
-```
-WearHouse/
-│
-├── public/              # Static files (index.html, favicon, etc.)
-├── src/                 # Main React source code
-│   ├── components/      # Navbar, Footer, ProductCard, etc.
-│   ├── pages/           # Home, Shop, Cart, ProductDetails
-│   ├── assets/          # Images, icons, and design resources
-│   ├── App.js           # Main routing and structure
-│   └── index.js         # React entry point
-│
-├── package.json         # Dependencies and project scripts
-└── README.md
-```
-
----
-
 ## 💡 Learnings & Impact
 
 - Strengthened understanding of **React component architecture** and SPA development.  
