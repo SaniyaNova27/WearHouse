@@ -1,6 +1,6 @@
 # 🛍️ E-Commerce – React Based Shopping Website
 
-**E-Commerce (GreatStack)** is a modern, responsive **React.js front-end application** designed to simulate a real-world online shopping experience.  
+**E-Commerce** is a modern, responsive **React.js front-end application** designed to simulate a real-world online shopping experience.  
 It provides users with an interactive interface to browse products, view detailed information, and manage a shopping cart — showcasing elegant UI, smooth navigation, and clean component-based architecture.
 
 ---
